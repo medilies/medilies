@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [elaboratecode.com](https://elaboratecode.com)
 
 - 💬 Ask me about **PHP, JS, Laravel**
+- 🚶 I wanna try the **MERN stack** and **Firebase** 
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,9 +19,12 @@
 
 <!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
-<a href="https://linkedin.com/in/medilies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medilies" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17873304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17873304" height="30" width="40" /></a>
-<a href="https://dev.to/medilies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="medilies" height="30" width="40" /></a>
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17873304)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/medilies)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medilies_)
+[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/medilies)
 
 ## My skillset:
 
