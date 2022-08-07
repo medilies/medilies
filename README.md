@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Find me on:
+## Find me on ⌨:
 
 <!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
@@ -28,7 +28,7 @@
 [![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/medilies/packages/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~medilies)
 
-## My skillset:
+## My skillset 🛠:
 
 ### Languages
 
