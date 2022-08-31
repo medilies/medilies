@@ -15,7 +15,37 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Find me on ⌨:
+## Projects ⭐:
+
+### Web apps 🖥️📱:
+
+**Eazy IP** ([🌐 visit](https://eazyip.github.io)) ([repo](https://github.com/eazyip/eazyip.github.io))
+
+**Quiz** ([🌐visit](https://quiz.elhayatschool.com)) ([repo](https://github.com/elaborate-code/quiz))
+
+**Tic Tac Toe Game** ([🌐visit](https://medilies.itch.io/tictactoe)) ([repo](https://github.com/medilies/tictactoe)
+
+### Packages 📦:
+
+**Laravel Eloquent Logs** ([repo](https://github.com/elaborate-code/laravel-eloquent-logs)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-eloquent-logs))
+
+**Laravel Resource Routes** ([repo](https://github.com/elaborate-code/laravel-resource-routes)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-resource-routes))
+
+**Jigsaw Localization** ([repo](https://github.com/elaborate-code/jigsaw-localization)) ([Packagist](https://packagist.org/packages/elaborate-code/jigsaw-localization))
+
+**Countdown Component JS** ([repo](https://github.com/medilies/countdown-component.js)) ([NPM](https://www.npmjs.com/package/@medilies/countdown-component))
+
+**Laravel Aalgerian Education System** ([repo](https://github.com/elaborate-code/laravel-algerian-education-system)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-algerian-education-system))
+
+**Laravel Algerian Provinces** ([repo](https://github.com/elaborate-code/laravel-algerian-provinces)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-algerian-provinces))
+
+### Others:
+
+**GLPI Docker image/stack** ([repo](https://github.com/medilies/glpi-docker))
+
+**Sheet2PDF** ([repo](https://github.com/medilies/sheet2pdf))
+
+## Find me on 🧢:
 
 <!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
