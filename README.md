@@ -11,21 +11,21 @@
 - 💬 Ask me about **PHP, JS, Laravel**
 - 🚶 I wanna try the **MERN stack** and **Firebase** 
 
-## Blogs posts
+## Blogs posts 📌
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects ⭐:
 
-### Web apps 🖥️📱:
+### 🖥️📱 Web apps:
 
 **Eazy IP** ([🌐 visit](https://eazyip.github.io)) ([repo](https://github.com/eazyip/eazyip.github.io))
 
 **Quiz** ([🌐visit](https://quiz.elhayatschool.com)) ([repo](https://github.com/elaborate-code/quiz))
 
-**Tic Tac Toe Game** ([🌐visit](https://medilies.itch.io/tictactoe)) ([repo](https://github.com/medilies/tictactoe)
+**Tic Tac Toe Game** ([🌐visit](https://medilies.itch.io/tictactoe)) ([repo](https://github.com/medilies/tictactoe))
 
-### Packages 📦:
+### 📦 Packages:
 
 **Laravel Eloquent Logs** ([repo](https://github.com/elaborate-code/laravel-eloquent-logs)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-eloquent-logs))
 
@@ -39,7 +39,7 @@
 
 **Laravel Algerian Provinces** ([repo](https://github.com/elaborate-code/laravel-algerian-provinces)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-algerian-provinces))
 
-### Others:
+### 🎈 Others:
 
 **GLPI Docker image/stack** ([repo](https://github.com/medilies/glpi-docker))
 
