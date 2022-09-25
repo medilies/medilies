@@ -27,6 +27,8 @@
 
 ### 📦 Packages:
 
+**PHP JSON Tongue** ([repo](https://github.com/elaborate-code/php-json-tongue)) ([Packagist](https://packagist.org/packages/elaborate-code/php-json-tongue))
+
 **Laravel Eloquent Logs** ([repo](https://github.com/elaborate-code/laravel-eloquent-logs)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-eloquent-logs))
 
 **Laravel Resource Routes** ([repo](https://github.com/elaborate-code/laravel-resource-routes)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-resource-routes))
