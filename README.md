@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ilies</h1>
-<h2 align="center"> Web developer; I specialize in PHP-Laravel & Javascript  </h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ilies</h1>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=3000&center=true&vCenter=true&width=592&lines=Web+developer%2C+I+specialize+in+PHP-Laravel+%26+Javascript" alt="Typing SVG" />
+</h3>
 
 ![medilies](https://komarev.com/ghpvc/?username=medilies&style=flat-square&color=blue)
 <a href="https://stackoverflow.com/users/17873304/medilies" target="_blank">
 <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=17873304" />
 </a>
 
--   👨‍💻 All of my projects are available at [elaboratecode.com](https://elaboratecode.com)
+[elaboratecode.com](https://elaboratecode.com)
 
--   💬 Ask me about **PHP, JS, Laravel**
--   🚶 I wanna try the **MERN stack** and **Firebase**
+## Find me on 🧢:
 
-## Blogs posts 📌
+<!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17873304)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/medilies)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medilies_)
+[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/medilies)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/medilies/packages/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~medilies)
+
+<!-- ## Blogs posts 📌 -->
 
 ## Projects ⭐:
 
@@ -80,19 +90,6 @@
             alt="tictactoe">
     </a>
 </p>
-
-## Find me on 🧢:
-
-<!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17873304)
-[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/medilies)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medilies_)
-[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/medilies)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/medilies/packages/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~medilies)
 
 ## My skillset 🛠:
 
