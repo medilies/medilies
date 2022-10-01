@@ -6,46 +6,80 @@
 <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=17873304" />
 </a>
 
-- 👨‍💻 All of my projects are available at [elaboratecode.com](https://elaboratecode.com)
+-   👨‍💻 All of my projects are available at [elaboratecode.com](https://elaboratecode.com)
 
-- 💬 Ask me about **PHP, JS, Laravel**
-- 🚶 I wanna try the **MERN stack** and **Firebase** 
+-   💬 Ask me about **PHP, JS, Laravel**
+-   🚶 I wanna try the **MERN stack** and **Firebase**
 
 ## Blogs posts 📌
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects ⭐:
 
-### 🖥️📱 Web apps:
-
-**Eazy IP** ([🌐 visit](https://eazyip.github.io)) ([repo](https://github.com/eazyip/eazyip.github.io))
-
-**Quiz** ([🌐visit](https://quiz.elhayatschool.com)) ([repo](https://github.com/elaborate-code/quiz))
-
-**Tic Tac Toe Game** ([🌐visit](https://medilies.itch.io/tictactoe)) ([repo](https://github.com/medilies/tictactoe))
-
-### 📦 Packages:
-
-**PHP JSON Tongue** ([repo](https://github.com/elaborate-code/php-json-tongue)) ([Packagist](https://packagist.org/packages/elaborate-code/php-json-tongue))
-
-**Laravel Eloquent Logs** ([repo](https://github.com/elaborate-code/laravel-eloquent-logs)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-eloquent-logs))
-
-**Laravel Resource Routes** ([repo](https://github.com/elaborate-code/laravel-resource-routes)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-resource-routes))
-
-**Jigsaw Localization** ([repo](https://github.com/elaborate-code/jigsaw-localization)) ([Packagist](https://packagist.org/packages/elaborate-code/jigsaw-localization))
-
-**Countdown Component JS** ([repo](https://github.com/medilies/countdown-component.js)) ([NPM](https://www.npmjs.com/package/@medilies/countdown-component))
-
-**Laravel Aalgerian Education System** ([repo](https://github.com/elaborate-code/laravel-algerian-education-system)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-algerian-education-system))
-
-**Laravel Algerian Provinces** ([repo](https://github.com/elaborate-code/laravel-algerian-provinces)) ([Packagist](https://packagist.org/packages/elaborate-code/laravel-algerian-provinces))
-
-### 🎈 Others:
-
-**GLPI Docker image/stack** ([repo](https://github.com/medilies/glpi-docker))
-
-**Sheet2PDF** ([repo](https://github.com/medilies/sheet2pdf))
+<p align="center">
+    <a href="https://github.com/elaborate-code/PHP-JSON-Tongue">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=PHP-JSON-Tongue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="PHP-JSON-Tongue">
+    </a>
+    <a href="https://github.com/eazyip/eazyip.github.io">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eazyip&repo=eazyip.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="eazyip.github.io">
+    </a>
+    <a href="https://github.com/medilies/glpi-docker">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=glpi-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="glpi-docker">
+    </a>
+    <a href="https://github.com/elaborate-code/laravel-eloquent-logs">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-eloquent-logs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-eloquent-logs">
+    </a>
+    <a href="https://github.com/elaborate-code/laravel-algerian-education-system">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-algerian-education-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-algerian-education-system">
+    </a>
+    <a href="https://github.com/elaborate-code/laravel-algerian-provinces">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-algerian-provinces&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-algerian-provinces">
+    </a>
+    <a href="https://github.com/elaborate-code/jigsaw-localization">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=jigsaw-localization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="jigsaw-localization">
+    </a>
+    <a href="https://github.com/medilies/sheet2pdf">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="sheet2pdf">
+    </a>
+    <a href="https://github.com/elaborate-code/quiz">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="quiz">
+    </a>
+    <a href="https://github.com/medilies/countdown-component.js">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=countdown-component.js&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="countdown-component.js">
+    </a>
+    <a href="https://github.com/elaborate-code/laravel-resource-routes">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-resource-routes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-resource-routes">
+    </a>
+    <a href="https://github.com/medilies/tictactoe">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=tictactoe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="tictactoe">
+    </a>
+</p>
 
 ## Find me on 🧢:
 
@@ -94,6 +128,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) -->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
@@ -121,6 +156,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
 <!-- ![inskcape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) -->
 <!-- ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) -->
 <!-- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) -->
