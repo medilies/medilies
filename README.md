@@ -8,10 +8,11 @@
 <a href="https://stackoverflow.com/users/17873304/medilies" target="_blank">
 <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=17873304" />
 </a>
-
-[elaboratecode.com](https://elaboratecode.com)
+[![Most Active GitHub User Rank](https://en19suqb1efrnsq.m.pipedream.net/)](https://commits.top/algeria.html#:~:text=medilies)
 
 ## Find me on 🧢:
+
+[elaboratecode.com](https://elaboratecode.com)
 
 <!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
@@ -117,7 +118,7 @@
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+<!-- ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) -->
 
 ### Databases
 
