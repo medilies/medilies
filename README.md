@@ -70,9 +70,9 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="sheet2pdf">
     </a>
-    <a href="https://github.com/elaborate-code/quiz">
+    <a href="https://github.com/elhayat-school/quiz">
         <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elhayat-school&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="quiz">
     </a>
     <a href="https://github.com/medilies/countdown-component.js">
