@@ -65,6 +65,11 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=jigsaw-localization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="jigsaw-localization">
     </a>
+       <a href="https://github.com/elaborate-code/laravel-json-tongue">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-json-tongue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-json-tongue">
+    </a>
     <a href="https://github.com/medilies/sheet2pdf">
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
