@@ -55,11 +55,6 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=glpi-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="glpi-docker">
     </a>
-    <a href="https://github.com/elaborate-code/laravel-eloquent-logs">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-eloquent-logs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="laravel-eloquent-logs">
-    </a>
     <a href="https://github.com/elaborate-code/laravel-algerian-education-system">
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-algerian-education-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
