@@ -56,7 +56,7 @@
 
 <!-- ## Blogs posts 📌 -->
 
-## Projects ⭐:
+## Libraries ⭐:
 
 <p align="center">
     <a href="https://github.com/elaborate-code/PHP-JSON-Tongue">
@@ -74,15 +74,10 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-json-tongue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="laravel-json-tongue">
     </a>
-    <a href="https://github.com/eazyip/eazyip.github.io">
+       <a href="https://github.com/elaborate-code/row-bloom">
         <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eazyip&repo=eazyip.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="eazyip.github.io">
-    </a>
-    <a href="https://github.com/medilies/glpi-docker">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=glpi-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="glpi-docker">
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=row-bloom&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="laravel-json-tongue">
     </a>
     <a href="https://github.com/elaborate-code/laravel-algerian-education-system">
         <img width="270"
@@ -94,16 +89,6 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-algerian-provinces&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="laravel-algerian-provinces">
     </a>
-    <a href="https://github.com/medilies/sheet2pdf">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="sheet2pdf">
-    </a>
-    <a href="https://github.com/elhayat-school/quiz">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elhayat-school&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="quiz">
-    </a>
     <a href="https://github.com/medilies/countdown-component.js">
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=countdown-component.js&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
@@ -113,6 +98,41 @@
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elaborate-code&repo=laravel-resource-routes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="laravel-resource-routes">
+    </a>
+</p>
+
+## Projects ⭐:
+
+<p align="center">
+    <a href="https://github.com/medilies/messenger-clone">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=messenger-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="glpi-docker">
+    </a>
+    <a href="https://github.com/medilies/go-locate-em">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=go-locate-em&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="glpi-docker">
+    </a>
+    <a href="https://github.com/eazyip/eazyip.github.io">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eazyip&repo=eazyip.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="eazyip.github.io">
+    </a>
+    <a href="https://github.com/medilies/glpi-docker">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=glpi-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="glpi-docker">
+    </a>
+    <a href="https://github.com/medilies/sheet2pdf">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="sheet2pdf">
+    </a>
+    <a href="https://github.com/elhayat-school/quiz">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elhayat-school&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="quiz">
     </a>
     <a href="https://github.com/medilies/tictactoe">
         <img width="270"
