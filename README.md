@@ -109,11 +109,6 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=messenger-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="glpi-docker">
     </a>
-    <a href="https://github.com/medilies/go-locate-em">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=go-locate-em&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="glpi-docker">
-    </a>
     <a href="https://github.com/eazyip/eazyip.github.io">
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eazyip&repo=eazyip.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
@@ -124,19 +119,14 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=glpi-docker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="glpi-docker">
     </a>
-    <a href="https://github.com/medilies/sheet2pdf">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=sheet2pdf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="sheet2pdf">
-    </a>
-    <a href="https://github.com/elhayat-school/quiz">
-        <img width="270"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=elhayat-school&repo=quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="quiz">
-    </a>
     <a href="https://github.com/medilies/tictactoe">
         <img width="270"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=tictactoe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="tictactoe">
+    </a>
+    <a href="https://github.com/medilies/go-locate-em">
+        <img width="270"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=medilies&repo=go-locate-em&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+            alt="glpi-docker">
     </a>
 </p>
