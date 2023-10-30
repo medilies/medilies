@@ -1,20 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ilies</h1>
+# Hi, I'm Ilies
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=3000&center=true&vCenter=true&width=592&lines=Software engineer%2C+I+specialize+in+backends+dev" alt="Typing SVG" />
-</h3>
-
-![medilies](https://komarev.com/ghpvc/?username=medilies&style=flat-square&color=blue)
-<a href="https://stackoverflow.com/users/17873304/medilies" target="_blank">
-<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=17873304" />
-</a>
-[![Most Active GitHub User Rank](https://en19suqb1efrnsq.m.pipedream.net/)](https://commits.top/algeria.html#:~:text=medilies)
+Software engineer, I specialize in backends dev
 
 ## Find me on 🧢:
-
-[elaboratecode.com](https://elaboratecode.com)
-
-<!-- <a href="https://stackoverflow.com/users/17873304/medilies"><img src="https://stackoverflow.com/users/flair/17873304.png" width="208" height="58" alt="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for medilies at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
