@@ -6,7 +6,7 @@ I specialize in backend development using PHP, with a preference for the Laravel
 
 📦 I'm currently working on the [RowBloom library](https://github.com/row-bloom), documented extensively in this [wiki](https://github.com/row-bloom/row-bloom/wiki) and managed using [Kanban](https://github.com/orgs/row-bloom/projects/1).
 
-📱 As a network engineer, I contribute to tools that enhance the engineering process at [eazyip](https://eazyip.github.io).
+📱 As a network engineer, I contribute to tools that enhance the engineering process at [eazyip](https://eazyip.github.io). The app is being migrated to TS and Vue 3 [here](https://github.com/eazyip/ez-ip-app).
 
 📑 These repositories served educational purposes and come with informative READMEs: [messenger-clone](https://github.com/medilies/messenger-clone), [go-locate-em](https://github.com/medilies/go-locate-em).
 
