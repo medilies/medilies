@@ -2,7 +2,7 @@
 
 I specialize in backend development using PHP, with a preference for the Laravel framework. My focus extends to developing CLI tools, and when working on full-stack projects, I choose between Vanilla JS or Vue JS for building frontends. I prioritize expanding my expertise in software architecture and core technologies over chasing after frameworks.
 
-I was entitled to become the CTO of a promising startup that aimed to operate in the field of IoT and agriculture. Unfortunately, the team couldn't overcome the challenges, leading to the decision to archive the organization. I've made my work public at [safitech-dz](https://github.com/safitech-dz).
+I was entitled to become the CTO of a promising startup that aimed to operate in the field of IoT and agriculture. Unfortunately, we couldn't overcome the challenge as a team, leading to the decision to archive the organization. I've made my work public at [safitech-dz](https://github.com/safitech-dz).
 
 I'm currently working on the [RowBloom library](https://github.com/row-bloom), documented extensively in this [wiki](https://github.com/row-bloom/row-bloom/wiki) and managed using [Kanban](https://github.com/orgs/row-bloom/projects/1).
 
