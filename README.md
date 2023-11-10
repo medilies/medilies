@@ -10,7 +10,7 @@ I specialize in backend development using PHP, with a preference for the Laravel
 
 📑 These repositories served educational purposes and come with informative READMEs: [messenger-clone](https://github.com/medilies/messenger-clone), [go-locate-em](https://github.com/medilies/go-locate-em).
 
-📦 I've worked on translation libraries for the PHP ecosystem and may revisit them for further improvements: [PHP-JSON-Tongue](https://github.com/elaborate-code/PHP-JSON-Tongue), [jigsaw-localization](https://github.com/elaborate-code/jigsaw-localization), and [laravel-json-tongue](https://github.com/elaborate-code/laravel-json-tongue).
+📦 I've worked on translation libraries for the PHP ecosystem and may revisit them for further improvements: [PHP-JSON-Tongue](https://github.com/al-jazair/PHP-JSON-Tongue), [jigsaw-localization](https://github.com/al-jazair/jigsaw-localization), and [laravel-json-tongue](https://github.com/elaborate-code/laravel-json-tongue).
 
 📦 If you're working on Laravel projects for the Algerian market, check out [laravel-algerian-education-system](https://github.com/elaborate-code/laravel-algerian-education-system) or [laravel-algerian-provinces](https://github.com/elaborate-code/laravel-algerian-provinces).
 
