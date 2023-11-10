@@ -2,9 +2,11 @@
 
 I specialize in backend development using PHP, with a preference for the Laravel framework. My focus extends to developing CLI tools, and when working on full-stack projects, I choose between Vanilla JS or Vue JS for building frontends. I prioritize expanding my expertise in software architecture and core technologies over chasing after frameworks.
 
+I was entitled to become the CTO of a promising startup that aimed to operate in the field of IoT and agriculture. Unfortunately, the team couldn't overcome the challenges, leading to the decision to archive the organization. I've made my work public at [safitech-dz](https://github.com/safitech-dz).
+
 I'm currently working on the [RowBloom library](https://github.com/row-bloom), documented extensively in this [wiki](https://github.com/row-bloom/row-bloom/wiki) and managed using [Kanban](https://github.com/orgs/row-bloom/projects/1).
 
-As a network engineer, I contribute to tools that enhance the engineering process at [eazyip](https://github.com/eazyip/eazyip.github.io).
+As a network engineer, I contribute to tools that enhance the engineering process at [eazyip](https://eazyip.github.io).
 
 These repositories served educational purposes and come with informative READMEs: [messenger-clone](https://github.com/medilies/messenger-clone), [go-locate-em](https://github.com/medilies/go-locate-em).
 
