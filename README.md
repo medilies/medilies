@@ -1,28 +1,37 @@
-# Hi, I'm Ilies
+# Hi, I'm Ilies 👋
 
-I specialize in backend development using **PHP**, with a preference for the **Laravel** framework. My focus extends to developing **CLI tools**, and when working on **full-stack** projects, I choose between **Vanilla JS** or **Vue JS** for building frontends. I prioritize expanding my expertise in software architecture and core technologies over chasing after frameworks.
+Backend & AI engineer from Algeria. Since 2022 I've been building [DiData](https://swissdidata.com), a Swiss life-science platform (LIMS, EDC, biobanking), remotely.
 
-👔 I was the **Tech Lead** of a promising startup that aimed to operate in the field of **IoT** and agriculture. Unfortunately, we couldn't overcome the challenge as a team, leading to the decision to archive the organization. I've made my work public at [safitech-dz](https://github.com/safitech-dz).
+I work mostly in **PHP/Laravel**, and I'd rather go deep on software architecture and core technologies than chase frameworks. I learned my craft before LLMs were a thing; now I build AI agents.
 
-📦 I'm currently working on the [RowBloom library](https://github.com/row-bloom), documented extensively in this [wiki](https://github.com/row-bloom/row-bloom/wiki) and managed using [Kanban](https://github.com/orgs/row-bloom/projects/1).
+### 🧠 What I'm working on
 
-📱 As a **network engineer**, I contribute to tools that enhance the engineering process at [eazyip](https://eazyip.github.io). The app is being migrated to TS and Vue 3 [here](https://github.com/eazyip/ez-ip-app).
+- **DiBrain**, DiData's AI assistant. I lead its backend architecture: a hierarchical multi-agent system on the Laravel AI SDK, where a main agent delegates to 9 specialized agents. It has RAG, long-term memory, permission-checked write access, and runs on Anthropic, OpenAI, Gemini or self-hosted Ollama models.
 
-📑 These repositories served educational purposes and come with informative READMEs: [messenger-clone](https://github.com/medilies/messenger-clone), [go-locate-em](https://github.com/medilies/go-locate-em).
+### 📦 Open source
 
-📦 I've worked on localization libraries for the PHP ecosystem and may revisit them for further improvements: [PHP-JSON-Tongue](https://github.com/elaborate-code/PHP-JSON-Tongue), [jigsaw-localization](https://github.com/elaborate-code/jigsaw-localization), and [laravel-json-tongue](https://github.com/elaborate-code/laravel-json-tongue).
+| Project | What it does |
+| --- | --- |
+| [xssless](https://github.com/medilies/xssless) | Cleans rich text from XSS threats, following OWASP recommendations. Featured on Laravel News. |
+| [RowBloom](https://github.com/row-bloom/row-bloom) | Renders tabular data into templates and generates PDFs, with pluggable data loaders, template interpolators and PDF renderers. |
+| [rm-q](https://github.com/medilies/rm-q) | Queues file deletions inside a database transaction, so they roll back with it (Laravel). |
+| [laravel-algerian-education-system](https://github.com/al-jazair/laravel-algerian-education-system) · [laravel-algerian-provinces](https://github.com/al-jazair/laravel-algerian-provinces) | Laravel packages for the Algerian market. |
+| [glpi-docker](https://github.com/medilies/glpi-docker) | GLPI on Docker, with automated setup, plugins and backup/restore. |
 
-📦 If you're working on Laravel projects for the Algerian market, check out [laravel-algerian-education-system](https://github.com/al-jazair/laravel-algerian-education-system) or [laravel-algerian-provinces](https://github.com/al-jazair/laravel-algerian-provinces).
+More: [ctrl-p](https://github.com/medilies/ctrl-p) (HTML to PDF through the browser), localization libraries ([php-json-tongue](https://github.com/elaborate-code/php-json-tongue), [laravel-json-tongue](https://github.com/elaborate-code/laravel-json-tongue), [jigsaw-localization](https://github.com/elaborate-code/jigsaw-localization)), [Eazy IP](https://eazyip.github.io) (network calculations PWA), [php-pong](https://github.com/medilies/php-pong) (Pong in pure OpenGL, from PHP), and the IoT backend I built as CTO of a startup ([safitech-dz](https://github.com/safitech-dz)).
 
-Some functional projects I'm no longer actively maintaining include [countdown-component.js](https://github.com/medilies/countdown-component.js), [glpi-docker](https://github.com/medilies/glpi-docker), and [tictactoe](https://github.com/medilies/tictactoe).
+### 🛠️ Tech
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17873304)
-[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/medilies)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/medilies)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/medilies/packages)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~medilies)
-<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medilies) -->
-<!-- [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://forum.freecodecamp.org/u/medilies) -->
-<!-- [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/medilies) -->
+[![Skills](https://skillicons.dev/icons?i=php,laravel,mysql,docker,linux,go,py,js,ts,vue,nodejs,bash)](https://skillicons.dev)
+
+Also: SQL Server, Qdrant, MCP, Pest, PHPStan.
+
+### 💬 Elsewhere
+
+I answer Laravel and PHP questions on [Stack Overflow](https://stackoverflow.com/users/17873304) (2.3k reputation) and sometimes write on [dev.to](https://dev.to/medilies).
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medilies.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medilies)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17873304)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/medilies)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/users/medilies/packages)
