@@ -16,5 +16,6 @@ I build the agent system behind [DiData](https://swissdidata.com). When a librar
 
 - [laravel/ai](https://github.com/laravel/ai/pulls?q=is%3Apr+author%3Amedilies+is%3Amerged)
 - [laravel/framework](https://github.com/laravel/framework/pull/50454)
+- [openspout/openspout](https://github.com/openspout/openspout/pull/444)
 
 [Mail](mailto:medilies.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/medilies) · [Stack Overflow](https://stackoverflow.com/users/17873304)
