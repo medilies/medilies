@@ -14,8 +14,9 @@ I build the agent system behind [DiData](https://swissdidata.com). When a librar
 
 **Upstream**
 
-- [laravel/ai](https://github.com/laravel/ai/pulls?q=is%3Apr+author%3Amedilies+is%3Amerged)
-- [laravel/framework](https://github.com/laravel/framework/pull/50454)
-- [openspout/openspout](https://github.com/openspout/openspout/pull/444)
+- [laravel/ai](https://github.com/laravel/ai/pulls?q=is%3Apr+author%3Amedilies)
+- [laravel/framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amedilies)
+- [openspout/openspout](https://github.com/openspout/openspout/pulls?q=is%3Apr+author%3Amedilies)
+- [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet/pulls?q=is%3Apr+author%3Amedilies)
 
 [Mail](mailto:medilies.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/medilies) · [Stack Overflow](https://stackoverflow.com/users/17873304)
